@@ -6,7 +6,7 @@ Assignment Portfolio
 ## About
 This project is an assignment portfolio hosted on Microsoft Azure.
 CPSC-36000 Programming Tools & Techniques assignments are found here.
-The link to the portfolio: [Portfolio] (https://gray-desert-043f8f810.5.azurestaticapps.net/)
+The link to the portfolio: [Portfolio](https://gray-desert-043f8f810.5.azurestaticapps.net/)
 Previous assignments are included, as well as prefaces for future assignments.
 
 ## Required files
