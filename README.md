@@ -14,7 +14,7 @@ Previous assignments are included, as well as prefaces for future assignments.
 - `styles.css`: style formatting for the website
 
 ## Build and execution
-1. **Clone the Repository**: Clone the project repoistory to your local machine using
+1. **Clone the Repository**: Clone the project repository to your local machine using
  Terminal (Mac), Command Prompt (Windows), Bash (Linux) with the command:
      - git clone https://github.com/nicolemagdz/static-portfolio
 2. **File directory**: Switch your directory to be inside the folder:
